@@ -1,3 +1,7 @@
+# Crie um programa que use uma variável global chamada VALOR que é acessada por mil threads
+# 500 threads somam 10 em VALOR
+# 500 threads diminuem 10 em VALOR
+# - Rode sem usar sleep Exiba VALOR ao final 
 
 import threading
 
